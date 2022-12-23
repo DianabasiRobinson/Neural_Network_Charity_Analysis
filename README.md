@@ -34,6 +34,6 @@ This project was created to develop a neural network to assist in determining wh
 
 More features should be collected such as how long the organization has been in operation for, and how many previous donations they've received in the past (from Alphabet Soup or otherwise).
 
-## Recommendation
+## Recommendations
 
 For further investigation of these tests, I recommend alternative, non-sequential hyperparameter models. Another means of improving accuracy is to have more datapoints. Although we did not boost success rate to 75%, we have minimized loss using these tuned models.
